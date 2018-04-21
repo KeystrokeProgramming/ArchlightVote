@@ -1,0 +1,6 @@
+name: ArchlightVote
+main: me.Dustin.com.VoteMain
+version: 1.8.2
+commands:
+ tokens:
+ tokensadd:
